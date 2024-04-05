@@ -1,0 +1,4 @@
+<Files "incluir.php">
+    AllowOverride All
+    Require all granted
+</Files>
